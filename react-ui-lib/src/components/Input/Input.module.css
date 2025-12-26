@@ -1,0 +1,24 @@
+.wrapper {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+input {
+  padding: 8px 32px 8px 8px;
+  font-size: 16px;
+}
+
+button {
+  position: absolute;
+  right: 4px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+.eye {
+  right: 24px;
+}
+.clear {
+  right: 4px;
+}
